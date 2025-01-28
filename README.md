@@ -1,8 +1,6 @@
 <!-- Place this tag where you want the button to render. -->
-
- \o/ Hi There .   👋                  
-/| |\   Give Me . .
- /'\      Your Task . . .NOW!
+  👋
+ \o/ Hi There .                   
 
     
 
