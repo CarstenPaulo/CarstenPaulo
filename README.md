@@ -13,10 +13,10 @@
 | 🟡 **Level 2**  | CSS                    | 4+ years of experience     | 8,000+             |
 | 🔵 **Level 3**  | Bootstrap              | 4+ years of experience     | 8,000+             |
 | 🟣 **Level 4**  | Python                 | 2+ years of experience     | 4,000+             |
-| 🟠 **Level 5**  | JavaScript             | 1+ years of experience     | 2,000+             |
+| 🟠 **Level 5**  | Figma                  | 1+ years of experience     | 2,000+             |
 | 🔴 **Level 6**  | Django                 | 2+ years of experience     | 4,000+             |
 | 🟤 **Level 7**  | SQLite                 | 2+ years of experience     | 2,000+             |
-| ⚪ **Level 8**   | SEO PageSpeed         | 1+ years of experience     | 2,000+            |
+| ⚪ **Level 8**   | SEO PageSpeed         | 1+ years of experience     | 2,000+             |
 | 🟡 **Level 9**  | Pay Traffic Google Ads | 1+ years of experience     | 2,000+             |
 | 🟠 **Level 10** | Linux Commands         | 1+ years of experience     | 2,000+             |
 | 🔴 **Level 11** | Putty & PuttyGen       | 1+ years of experience     | 2,000+             |
