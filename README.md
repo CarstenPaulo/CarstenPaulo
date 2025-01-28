@@ -1,9 +1,12 @@
 <!-- Place this tag where you want the button to render. -->
 
+ \o/ Hi There .   👋                  
+/| |\   Give Me . .
+ /'\      Your Task . . .NOW!
 
-\o/ ¬_o Hi There . . | |\ Give Me . . /'\ /'\ Your Task . . NOW!
+    
 
-👋 This is me, Paulo Carsten :bell:
+
 
 
 Paulo Carsten is a skilled IT professional from Brazil with expertise in Python, Django, HTML, CSS, Javascript and Bootstrap.
