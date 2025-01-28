@@ -1,9 +1,5 @@
-
-
-<a class="github-button" href="[https://github.com/buttons](http://www.carstenpaulo.com/)" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @buttons on GitHub">My Website</a>
-## Hi there 👋
-
-This is me, Paulo Carsten
+# Hi there 👋
+This is me, Paulo Carsten :bell:
 
 
 
