@@ -1,53 +1,33 @@
-<!-- Place this tag where you want the button to render. -->
-
- Hi There . . . . . <br>   👋
- Give me your task . . . . <br>
-  N O W  . .  . . . . . <br>
-
-Paulo Carsten is a skilled IT professional from Brazil with expertise Help Desk, HTML5, CSS3, BOOSTRAP, PYTHON, JAVASCRIPT, DJANGO, SEO -PAGE SPEED , PAY TRAFFIC , LINUX COMMANDS, PUTTY AND PUTYGEN.
---------------------------------------------------------------------------------------------------------------------------------
-
-
- 🔭 I’m currently working on my whole life as a software enginner...                         
-
- 
- 
- 
- 
- 🌱 I’m currently learning javascript
- 
-👯 I’m looking to collaborate on ...
- 
- 🤔 I’m looking for help with ...
- 
- 💬 Ask me about ...
- 
- 📫 How to reach me:  You can access my website or linkedin profile to contact me, dont be shy i like to make new frieds
-<!-- - ⚡ Fun fact:   -->
-
-
-
-
 # 🌟 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_handle)
-[![Website](https://img.shields.io/badge/Website-%23111111.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin_handle)
+Hey!!!! Welcome to my Github Profile!!
 
----
+
+[![Website](https://img.shields.io/badge/Website-%23111111.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.carstenpaulo.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulocarsten/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-carsten-87b376194)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🚀 Qualifications and Knowledge
+
+| **🌟 Level**    | **📜 Skill**           | **🏆 Lifetime Experience** | **🔢 Power Level** |
+| --------------- | ---------------------- | -------------------------- | ------------------ |
+| 🟢 **Level 1**  | HTML                   | 4+ years of experience     | 8,000+             |
+| 🟡 **Level 2**  | CSS                    | 4+ years of experience     | 8,000+             |
+| 🔵 **Level 3**  | Bootstrap              | 4+ years of experience     | 8,000+             |
+| 🟣 **Level 4**  | Python                 | 2+ years of experience     | 4,000+             |
+| 🟠 **Level 5**  | JavaScript             | 1+ years of experience     | 2,000+             |
+| 🔴 **Level 6**  | Django                 | 2+ years of experience     | 4,000+             |
+| 🟤 **Level 7**  | SQLite                 | 2+ years of experience     | 2,000+             |
+| ⚪ **Level 8**   | SEO PageSpeed         | 1+ years of experience     | 2,000+            |
+| 🟡 **Level 9**  | Pay Traffic Google Ads | 1+ years of experience     | 2,000+             |
+| 🟠 **Level 10** | Linux Commands         | 1+ years of experience     | 2,000+             |
+| 🔴 **Level 11** | Putty & PuttyGen       | 1+ years of experience     | 2,000+             |
+| 🔶 **Level 12** | AWS                    | 1+ years of experience     | 2,000+             |
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🚀 GitHub Levels and Scores
-
-| **🌟 Level** | **📜 Criteria**           | **🏆 Achievements**                                   | **🔢 Score** |
-|--------------|---------------------------|-----------------------------------------------------|--------------|
-| 🟢 **Level 1** | New Contributor           | First repository, first pull request                | 10           |
-| 🟡 **Level 2** | Growing Developer         | 10+ commits, 3+ projects, basic documentation       | 50           |
-| 🔵 **Level 3** | Proficient Collaborator   | 50+ commits, contributions to open source           | 100          |
-| 🟣 **Level 4** | Advanced Developer        | Built a significant project, automated workflows    | 200          |
-| 🟠 **Level 5** | Community Leader          | Maintains projects, helps others through issues     | 400          |
-| 🔴 **Level 6** | Open Source Champion      | Recognized contributor in multiple open source orgs | 800          |
-
-**🎯 Track your growth and aim for the top!**
-
 
