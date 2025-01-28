@@ -1,7 +1,6 @@
 # 🌟 Connect with Me
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Website](https://img.shields.io/badge/Website-%23111111.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.carstenpaulo.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulocarsten/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-carsten-87b376194)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
