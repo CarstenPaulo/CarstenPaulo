@@ -2,6 +2,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Website](https://img.shields.io/badge/Website-%23111111.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.carstenpaulo.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-carsten-87b376194)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXXXXXX)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🚀 Qualifications and Knowledge
