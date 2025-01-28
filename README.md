@@ -1,17 +1,17 @@
 <!-- Place this tag where you want the button to render. -->
 
-# Hi there 👋
-This is me, Paulo Carsten :bell:
 
-Paulo Carsten is a skilled IT professional from Brazil with expertise in Python, Django, HTML, CSS, and Bootstrap. He has experience building landing pages, realtor sites, and stock systems, while also being knowledgeable in SEO, paid traffic, and Google My Business. Familiar with agile tools like Jira, and proficient in Git and GitHub, Paulo is always driven by his passion for development and expanding his skills.
+\o/ ¬_o Hi There . . | |\ Give Me . . /'\ /'\ Your Task . . NOW!
+
+👋 This is me, Paulo Carsten :bell:
+
+
+Paulo Carsten is a skilled IT professional from Brazil with expertise in Python, Django, HTML, CSS, Javascript and Bootstrap.
+--------------------------------------------------------------------------------------------------------------------------------
+
 
  🔭 I’m currently working on my whole life as a software enginner...                         
- ˜”°º•G ¨˜”°º•R ¨˜”°º•A ¨˜”°º•T ¨˜”°º•Z
- ˜”°º•G ¨˜”°º•R ¨˜”°º•A ¨˜”°º•T ¨˜”°º•Z
- ˜”°º•G ¨˜”°º•R ¨˜”°º•A ¨˜”°º•T ¨˜”°º•Z
- ˜”°º•G ¨˜”°º•R ¨˜”°º•A ¨˜”°º•T ¨˜”°º•Z
- ˜”°º•G ¨˜”°º•R ¨˜”°º•A ¨˜”°º•T ¨˜”°º•Z
- ˜”°º•G ¨˜”°º•R ¨˜”°º•A ¨˜”°º•T ¨˜”°º•Z
+
  
  
  
