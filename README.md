@@ -1,10 +1,7 @@
 # Hi there 👋
 This is me, Paulo Carsten :bell:
 
-
-
 Paulo Carsten is a skilled IT professional from Brazil with expertise in Python, Django, HTML, CSS, and Bootstrap. He has experience building landing pages, realtor sites, and stock systems, while also being knowledgeable in SEO, paid traffic, and Google My Business. Familiar with agile tools like Jira, and proficient in Git and GitHub, Paulo is always driven by his passion for development and expanding his skills.
-
 
 
 Here are some ideas to get you started:
